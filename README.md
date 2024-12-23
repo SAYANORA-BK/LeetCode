@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0043-multiply-strings) |
 | [0371-sum-of-two-integers](https://github.com/SAYANORA-BK/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0415-add-strings) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/SAYANORA-BK/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SAYANORA-BK/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0415-add-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
