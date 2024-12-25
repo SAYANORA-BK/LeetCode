@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SAYANORA-BK/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/SAYANORA-BK/LeetCode/tree/master/0027-remove-element) |
+| [2058-concatenation-of-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/SAYANORA-BK/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0415-add-strings) |
+| [2058-concatenation-of-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Recursion
 |  |
 | ------- |
