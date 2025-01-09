@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SAYANORA-BK/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SAYANORA-BK/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0415-add-strings) |
+| [0812-rotate-string](https://github.com/SAYANORA-BK/LeetCode/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/SAYANORA-BK/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2836-neither-minimum-nor-maximum](https://github.com/SAYANORA-BK/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/SAYANORA-BK/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
