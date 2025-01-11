@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SAYANORA-BK/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/SAYANORA-BK/LeetCode/tree/master/0027-remove-element) |
+| [1944-truncate-sentence](https://github.com/SAYANORA-BK/LeetCode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/SAYANORA-BK/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0415-add-strings) |
 | [0812-rotate-string](https://github.com/SAYANORA-BK/LeetCode/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/SAYANORA-BK/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1944-truncate-sentence](https://github.com/SAYANORA-BK/LeetCode/tree/master/1944-truncate-sentence) |
 ## Bit Manipulation
 |  |
 | ------- |
