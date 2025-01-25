@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SAYANORA-BK/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/SAYANORA-BK/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SAYANORA-BK/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/SAYANORA-BK/LeetCode/tree/master/0190-reverse-bits) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SAYANORA-BK/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
