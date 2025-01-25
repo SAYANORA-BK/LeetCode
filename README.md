@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/SAYANORA-BK/LeetCode/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/SAYANORA-BK/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/SAYANORA-BK/LeetCode/tree/master/1944-truncate-sentence) |
+| [2235-capitalize-the-title](https://github.com/SAYANORA-BK/LeetCode/tree/master/2235-capitalize-the-title) |
 ## Bit Manipulation
 |  |
 | ------- |
