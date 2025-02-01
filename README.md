@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SAYANORA-BK/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/SAYANORA-BK/LeetCode/tree/master/0260-single-number-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1944-truncate-sentence](https://github.com/SAYANORA-BK/LeetCode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/SAYANORA-BK/LeetCode/tree/master/0190-reverse-bits) |
+| [0260-single-number-iii](https://github.com/SAYANORA-BK/LeetCode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/SAYANORA-BK/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
