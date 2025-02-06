@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/SAYANORA-BK/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SAYANORA-BK/LeetCode/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1944-truncate-sentence](https://github.com/SAYANORA-BK/LeetCode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SAYANORA-BK/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/SAYANORA-BK/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SAYANORA-BK/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/SAYANORA-BK/LeetCode/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/SAYANORA-BK/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
