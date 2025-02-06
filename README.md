@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SAYANORA-BK/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/SAYANORA-BK/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1944-truncate-sentence](https://github.com/SAYANORA-BK/LeetCode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SAYANORA-BK/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/SAYANORA-BK/LeetCode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/SAYANORA-BK/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/SAYANORA-BK/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/1013-fibonacci-number) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/SAYANORA-BK/LeetCode/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/SAYANORA-BK/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/SAYANORA-BK/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/SAYANORA-BK/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 ## String Matching
@@ -106,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SAYANORA-BK/LeetCode/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
