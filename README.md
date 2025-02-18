@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/SAYANORA-BK/LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/SAYANORA-BK/LeetCode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/SAYANORA-BK/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/SAYANORA-BK/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -116,5 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SAYANORA-BK/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
