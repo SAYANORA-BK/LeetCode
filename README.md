@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SAYANORA-BK/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SAYANORA-BK/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0136-single-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/SAYANORA-BK/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/SAYANORA-BK/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
