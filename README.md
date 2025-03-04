@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/1013-fibonacci-number) |
 | [1289-day-of-the-week](https://github.com/SAYANORA-BK/LeetCode/tree/master/1289-day-of-the-week) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SAYANORA-BK/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
