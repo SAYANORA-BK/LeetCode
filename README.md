@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SAYANORA-BK/LeetCode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/SAYANORA-BK/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/SAYANORA-BK/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/SAYANORA-BK/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/1013-fibonacci-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SAYANORA-BK/LeetCode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/SAYANORA-BK/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
