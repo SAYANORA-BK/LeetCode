@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SAYANORA-BK/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/SAYANORA-BK/LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/SAYANORA-BK/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/1013-fibonacci-number) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SAYANORA-BK/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SAYANORA-BK/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
