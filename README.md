@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SAYANORA-BK/LeetCode/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1791-richest-customer-wealth](https://github.com/SAYANORA-BK/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1944-truncate-sentence](https://github.com/SAYANORA-BK/LeetCode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SAYANORA-BK/LeetCode/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/SAYANORA-BK/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
