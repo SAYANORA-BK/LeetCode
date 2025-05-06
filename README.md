@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/SAYANORA-BK/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1944-truncate-sentence](https://github.com/SAYANORA-BK/LeetCode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2502-sort-the-people](https://github.com/SAYANORA-BK/LeetCode/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/SAYANORA-BK/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SAYANORA-BK/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SAYANORA-BK/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
+| [2502-sort-the-people](https://github.com/SAYANORA-BK/LeetCode/tree/master/2502-sort-the-people) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SAYANORA-BK/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/SAYANORA-BK/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/SAYANORA-BK/LeetCode/tree/master/1944-truncate-sentence) |
 | [2235-capitalize-the-title](https://github.com/SAYANORA-BK/LeetCode/tree/master/2235-capitalize-the-title) |
+| [2502-sort-the-people](https://github.com/SAYANORA-BK/LeetCode/tree/master/2502-sort-the-people) |
 | [3684-substring-matching-pattern](https://github.com/SAYANORA-BK/LeetCode/tree/master/3684-substring-matching-pattern) |
 ## Bit Manipulation
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/SAYANORA-BK/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2502-sort-the-people](https://github.com/SAYANORA-BK/LeetCode/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/SAYANORA-BK/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 ## String Matching
 |  |
