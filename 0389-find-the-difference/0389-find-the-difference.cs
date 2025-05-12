@@ -1,5 +1,8 @@
 public class Solution {
     public char FindTheDifference(string s, string t) {
-        return (s + t).GroupBy(x => x).Where(x => x.Count() % 2 == 1).Select(c => c.Key).ToList()[0];
+        List<char> list2 = new List<char>(t);
+            for (int i = 0; i < s.Length; i++) 
+                list2.Remove(s[i]);
+            return list2[0];
     }
 }
