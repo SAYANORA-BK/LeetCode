@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SAYANORA-BK/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SAYANORA-BK/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SAYANORA-BK/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/SAYANORA-BK/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SAYANORA-BK/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SAYANORA-BK/LeetCode/tree/master/0326-power-of-three) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SAYANORA-BK/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/SAYANORA-BK/LeetCode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/SAYANORA-BK/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/SAYANORA-BK/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/SAYANORA-BK/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SAYANORA-BK/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/SAYANORA-BK/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/SAYANORA-BK/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SAYANORA-BK/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/1013-fibonacci-number) |
 ## Number Theory
