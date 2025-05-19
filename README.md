@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SAYANORA-BK/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/SAYANORA-BK/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/SAYANORA-BK/LeetCode/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/SAYANORA-BK/LeetCode/tree/master/1013-fibonacci-number) |
 | [1289-day-of-the-week](https://github.com/SAYANORA-BK/LeetCode/tree/master/1289-day-of-the-week) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SAYANORA-BK/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
